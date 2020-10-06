@@ -52,6 +52,8 @@ Dialogue: 10,0:00:25.35,0:00:26.28,Default,Senkuu,0,0,0,,{\fscy100\bord3.8\fscx1
 Dialogue: 10,0:00:26.28,0:00:27.91,Default,Senkuu,0,0,0,,This satisfying sweetness!
 Dialogue: 10,0:00:27.91,0:00:30.83,Default,Senkuu,0,0,0,,Snickers Satisfies!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
-Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(952,278)}Snickers Satisfies!
+Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{=0}{\an7\c&H2E1DDC&\blur1\3c&H2E1DDC&\fscx115\fscy115\p1\pos(964,275)}m -591 72 l -554 -42 b -550 -60 -536 -67 -513 -67 l 586 -67 552 51 b 547 65 533 72 512 72
+Dialogue: 1,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{=0}{\an7\c&HFEFEFE&\blur1\3c&HFEFEFE&\fscx115\fscy115\p1\pos(964,275)}m -579 66 l -544 -42 b -542 -54 -528 -61 -515 -61 l 574 -61 542 51 b 539 59 525 66 514 66
+Dialogue: 2,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{=0}{\fnLunch time\fs180\c&H8C1F11&\blur0.6\fscx115\fscy115\pos(964,275)}Snicker{\fsp-20}s{\fsp} {\fsp-3}S{\fsp-10}a{\fsp}tisfies
 Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(934,786)}Twitter campaign on now{TL: 実施中: "in session", "happening now"}!
 Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(904,514)}#SenkuChallenge{TL: Written challenge from Senkuu #千空からの挑戦状}
