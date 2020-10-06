@@ -52,12 +52,12 @@ Dialogue: 10,0:00:25.35,0:00:26.28,Default,Senkuu,0,0,0,,{\fscy100\bord3.8\fscx1
 Dialogue: 10,0:00:26.28,0:00:27.91,Default,Senkuu,0,0,0,,This satisfying sweetness!
 Dialogue: 10,0:00:27.91,0:00:30.83,Default,Senkuu,0,0,0,,Snickers Satisfies!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
-Dialogue: 0,0:00:27.91,0:00:30.88,Mask,,0,0,0,,{\pos(964,275)\c&H2E1DDC&\blur1\p1}m -683 83 l -640 -48 b -635 -69 -619 -77 -593 -77 l 674 -77 635 59 b 629 75 613 83 589 83
-Dialogue: 1,0:00:27.91,0:00:30.88,Mask,,0,0,0,,{\pos(964,275)\c&HFEFEFE&\blur1\p1}m -669 76 l -629 -48 b -626 -62 -610 -70 -595 -70 l 660 -70 623 59 b 620 68 604 76 591 76
+Dialogue: 0,0:00:27.91,0:00:30.88,Mask,,0,0,0,,{\pos(964,275)\c&H1A0AE2&\blur0.5\p1}m -683 83 l -640 -48 b -635 -69 -619 -77 -593 -77 l 674 -77 635 59 b 629 75 613 83 589 83
+Dialogue: 1,0:00:27.91,0:00:30.88,Mask,,0,0,0,,{\pos(964,275)\c&HFEFEFE&\blur0.5\p1}m -669 76 l -629 -48 b -626 -62 -610 -70 -595 -70 l 660 -70 623 59 b 620 68 604 76 591 76
 Dialogue: 2,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(964,275)\fnLunch time\fs206\bord1\xshad-3\c&H8C1F11&\3c&H8D1E0F&\4c&H8D1E0F&\blur0.6}Snicker{\fsp-20}s{\fsp} {\fsp-3}S{\fsp-10}a{\fsp}tisfies
 Dialogue: 3,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(964,275)\fnLunch time\fs206\xshad-2\c&H8C1F11&\4c&HFEFEFE&\blur0.6}Snicker{\fsp-20}s{\fsp} {\fsp-3}S{\fsp-10}a{\fsp}tisfies
 Dialogue: 3,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(964,275)\fnLunch time\fs206\c&H8C1F11&\blur0.6}Snicker{\fsp-20}s{\fsp} {\fsp-3}S{\fsp-10}a{\fsp}tisfies
-Dialogue: 0,0:00:27.91,0:00:30.88,Mask,,0,0,0,,{\an5\pos(960.778,779.667)\fscx972\fscy95\blur1\p1}m 0 0 l 100 0 100 100 0 100
+Dialogue: 0,0:00:27.91,0:00:30.88,Mask,,0,0,0,,{\an5\pos(960.778,779.667)\fscx972\fscy95\blur0.6\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(951.778,780.667)\fnFutura Condensed\fs130\b1\i1\c&H8D1E0F&\blur0.6}T{\fscx80\fscy80}WITTER CAMPAIGN ON NOW{\fsc}!
 Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(961,684)\fnFZYongKeTiS\fs80\b1\c&H000000&\alpha&H40&\blur10}#SenkuChallenge
 Dialogue: 1,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(961,684)\fnFZYongKeTiS\fs80\b1\c&HFCFAFA&}#SenkuChallenge
