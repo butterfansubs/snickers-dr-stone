@@ -17,7 +17,8 @@ Keyframes File: SNICKERS®︎ × Dr.STONE 「石化した草薙」篇　30秒-3Q
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 6
+Active Line: 7
+Video Position: 918
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,11 +28,11 @@ Style: Mask,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Senkuu,0,0,0,,Ha? This guy is... Kusanagi??
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Senkuu,0,0,0,,Oh well, it can't be helped. It's Snickers time!!!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kusanagi,0,0,0,,huuhh??? Wh-why?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Senkuu,0,0,0,,That thing just awakened your instincts.
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Kusanagi,0,0,0,,I-I can't stop. W-what should I do if it's all gone?
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Senkuu,0,0,0,,Hungry? Grab a snickers!!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Senkuu,0,0,0,,This is exhilarating!!
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,Senkuu,0,0,0,,This sweetness and taste! Snickers will hit the spot!
+Dialogue: 0,0:00:03.08,0:00:06.18,Default,Senkuu,0,0,0,,Ha? This guy is... Kusanagi??
+Dialogue: 0,0:00:07.75,0:00:11.18,Default,Senkuu,0,0,0,,Oh well, it can't be helped. It's Snickers time!!!
+Dialogue: 0,0:00:14.62,0:00:16.45,Default,Kusanagi,0,0,0,,huuhh??? Wh-why?
+Dialogue: 0,0:00:16.45,0:00:20.08,Default,Senkuu,0,0,0,,That thing just awakened your instincts.
+Dialogue: 0,0:00:20.08,0:00:22.95,Default,Kusanagi,0,0,0,,I-I can't stop. W-what should I do if it's all gone?
+Dialogue: 0,0:00:22.95,0:00:25.22,Default,Senkuu,0,0,0,,Hungry? Grab a snickers!!
+Dialogue: 0,0:00:25.22,0:00:26.28,Default,Senkuu,0,0,0,,This is exhilarating!!
+Dialogue: 0,0:00:26.28,0:00:30.83,Default,Senkuu,0,0,0,,This sweetness and taste! Snickers will hit the spot!
