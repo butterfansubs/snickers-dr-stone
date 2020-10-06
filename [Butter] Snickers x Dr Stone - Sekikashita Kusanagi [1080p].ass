@@ -43,3 +43,6 @@ Dialogue: 10,0:00:24.95,0:00:26.28,Default,Senkuu,0,0,0,,This is exhilarating!
 Dialogue: 10,0:00:26.28,0:00:27.91,Default,Senkuu,0,0,0,,This sweetness and taste!
 Dialogue: 10,0:00:27.91,0:00:30.83,Default,Senkuu,0,0,0,,Snickers will hit the spot!
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
+Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(952,278)}Snickers will hit the spot
+Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(934,786)}Twitter campaign now on{TL: 実施中: "in session", "happening now"}!
+Dialogue: 0,0:00:27.91,0:00:30.88,Signs,,0,0,0,,{\pos(904,514)}#SenkuuChallenge{TL: Written challenge from Senkuu #千空からの挑戦状}
