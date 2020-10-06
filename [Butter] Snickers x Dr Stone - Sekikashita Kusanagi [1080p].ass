@@ -34,8 +34,9 @@ Dialogue: 10,0:00:04.68,0:00:06.18,Default,Senkuu,0,0,0,,Kusanagi?
 Dialogue: 10,0:00:07.68,0:00:09.25,Default,Senkuu,0,0,0,,Alright, gonna have to bust it out.
 Dialogue: 10,0:00:09.25,0:00:11.18,Default,Senkuu,0,0,0,,Get excited, Snickers®! {some sort of senku catchphrase}
 Dialogue: 10,0:00:14.62,0:00:16.45,Default,Kusanagi,0,0,0,,Wh-What happened?
-Dialogue: 10,0:00:16.45,0:00:20.08,Default,Senkuu,0,0,0,,That thing just made you you again, that’s all. {Snickers slogan reference :^)}
-Dialogue: 10,0:00:20.08,0:00:22.95,Default,Kusanagi,0,0,0,,I can’t stop. W-what am I going to do when it’s all gone?
+Dialogue: 10,0:00:16.45,0:00:19.68,Default,Senkuu,0,0,0,,That thing just made you you again, that’s all. {Snickers slogan reference :^)}
+Dialogue: 10,0:00:19.68,0:00:21.32,Default,Kusanagi,0,0,0,,I-I can’t stop.
+Dialogue: 10,0:00:21.32,0:00:22.95,Default,Kusanagi,0,0,0,,W-what am I going to do when it’s all gone?
 Dialogue: 10,0:00:22.95,0:00:24.95,Default,Senkuu,0,0,0,,Hungry{TL: lit. "If you're feeling hungry, ..."}? Grab a Snickers!
 Dialogue: 10,0:00:25.08,0:00:25.11,Default,Senkuu,0,0,0,,{\fscy100\bord3.8\fscx100\shad0.8\pos(965.7,1014.63)}It’s exhilarating!
 Dialogue: 10,0:00:25.11,0:00:25.15,Default,Senkuu,0,0,0,,{\fscy100\bord3.8\fscx100\shad0.8\pos(947.3,987.12)}It’s exhilarating!
